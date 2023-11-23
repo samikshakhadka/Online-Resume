@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cv_database",
+    "\\cv_database\\ApiController",
+    "\\cv_database\\Controllers",
+    "\\cv_database\\Models",
+    "\\cv_database\\Views"
+  ],
+  "SelectedNode": "\\cv_database\\ApiController\\InformationController.cs",
+  "PreviewInSolutionExplorer": false
+}

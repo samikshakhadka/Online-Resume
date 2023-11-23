@@ -1,0 +1,48 @@
+﻿@model cv_database.Models.contact
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>contact</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="contact_name" class="control-label"></label>
+                <input asp-for="contact_name" class="form-control" />
+                <span asp-validation-for="contact_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="contact_link" class="control-label"></label>
+                <input asp-for="contact_link" class="form-control" />
+                <span asp-validation-for="contact_link" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="contact_href" class="control-label"></label>
+                <input asp-for="contact_href" class="form-control" />
+                <span asp-validation-for="contact_href" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="information_id" class="control-label"></label>
+                <input asp-for="information_id" class="form-control" />
+                <span asp-validation-for="information_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

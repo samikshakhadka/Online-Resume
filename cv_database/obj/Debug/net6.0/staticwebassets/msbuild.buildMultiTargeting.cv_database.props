@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cv_database.props" />
+</Project>

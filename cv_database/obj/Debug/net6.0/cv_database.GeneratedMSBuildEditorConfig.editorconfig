@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cv_database
+build_property.RootNamespace = cv_database
+build_property.ProjectDir = C:\Users\DELL\OneDrive\Documents\Digital_Resume\Backend\cv_database_backend\cv_database\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL\OneDrive\Documents\Digital_Resume\Backend\cv_database_backend\cv_database
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Educations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Educations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Educations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Educations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Educations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Experiences/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Experiences/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Experiences/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Experiences/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Experiences/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Home/Educations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Information/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Information/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Information/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Information/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Information/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Skills/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Skills/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Skills/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Skills/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Skills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/OneDrive/Documents/Digital_Resume/Backend/cv_database_backend/cv_database/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eks5zfuvdb
