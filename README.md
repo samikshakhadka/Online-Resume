@@ -1,4 +1,4 @@
 # Online-Resume
-Using react, html, css , tailwind to convert my simple word CV into web CV.
-branch - frontend contains frontend code
-branch - backend contains backend code
+•	Implemented a full-stack project enabling CRUD operations on resumes.
+- Implementation of Authentication.
+•	Utilized MS SQL for data storage, .NET API for backend operations, and React with Tailwind CSS for the frontend.
